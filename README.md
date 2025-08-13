@@ -1,6 +1,5 @@
  ---
 
-
 # 📌 AI Chatbot for Customer Support  
 
 This project is an **AI-powered chatbot** that provides customer support by answering questions about a **judicial circular**. The chatbot is designed with a **microservices architecture**, allowing modular development and scalability. It leverages **Retrieval-Augmented Generation (RAG)** to retrieve relevant information and generate context-aware responses.  
